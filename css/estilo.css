@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: black;
+}
+
+#titulo{
+    font-size:1.563rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(235, 232, 232);
+    text-align: center;
+ 
+} 
+
+#redor{
+    background-color: rgb(124, 124, 124);
+    padding: 2%;
+    color: rgb(0, 0, 0);
+    margin: 1%;
+}
+ 
+
+
+.descricao {
+   color: white;
+    text-align: center;
+    font-size: 0.600rem;
+    padding: 0.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.footer {
+    background-color: rgb(68, 68, 68);
+    min-height: 10vh;
+    text-align: center;
+}
+
+h1{
+    color:white
+}
+
+
+
+
