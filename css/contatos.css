@@ -92,3 +92,8 @@ text-align: center;
     font-size: 1.563rem;
     text-align: center;
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
