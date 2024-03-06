@@ -19,9 +19,9 @@ h1{
 
 }
 
-.image1{
-    width: 52%;
-    height: 52%;
+.icones{
+    width: 27vw;
+    height: 27vh;
 }
 
 .images1{
@@ -32,7 +32,7 @@ display: flex;
 
 
 .comentario{
-    font-size: 0.938rem;
+    font-size: 0.900rem;
     font-family: Arial, Helvetica, sans-serif;
     color:white;
     display: flex;
@@ -58,7 +58,7 @@ body{
 } 
 
 #redor{
-    background-color: rgb(124, 124, 124);
+    background-color: rgb(61, 61, 61);
     padding: 2%;
     color: rgb(0, 0, 0);
     margin: 1%;
@@ -75,11 +75,10 @@ body{
     
 }
 
-.footer {
-    background-color: rgb(68, 68, 68);
-    min-height: 10vh;
-    text-align: center;
-    font-size:1.563rem ;
+#footer {
+    background-color: rgb(61, 61, 61);
+    width: 100%;
+    min-height: 5vh
 }
 
 h3{
@@ -89,12 +88,19 @@ h3{
 text-align: center; 
 }
 #fonte-baixo{
-    font-size: 1.563rem;
+    font-size: 2.188rem;
     text-align: center;
 }
-
-
 a{
     color: white;
     text-decoration: none;
+}
+
+#boxing-image{
+  width: 100%;  
+}
+/* link/direcionamento */
+#direcionamento{
+    font-size: 1.563rem;
+    text-align: center;
 }
